@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291661473060",
+    "firebase_url": "https://test20200623-b4106.firebaseio.com",
+    "project_id": "test20200623-b4106",
+    "storage_bucket": "test20200623-b4106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291661473060:android:bcfa301dd62e607345ffb1",
+        "android_client_info": {
+          "package_name": "com.angie.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291661473060-u9itfvtmknft1hnbop8ci95s52cq1a4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7h1f369QwPrR23Qek17d67TmWzCzFxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291661473060-u9itfvtmknft1hnbop8ci95s52cq1a4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
